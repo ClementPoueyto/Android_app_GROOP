@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076403679220",
+    "firebase_url": "https://groop-flutter.firebaseio.com",
+    "project_id": "groop-flutter",
+    "storage_bucket": "groop-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076403679220:android:4c8f8ffe9e17cd61",
+        "android_client_info": {
+          "package_name": "com.mencelt.flutter_groop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076403679220-nsmqqrh417qtem5b5u4r0dtq4t0hn6ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mencelt.flutter_groop",
+            "certificate_hash": "df07c46a4b926d62d33837c6d8d949a735ec1c1e"
+          }
+        },
+        {
+          "client_id": "1076403679220-ljvo6fhj48m64q2eahnmldt96eres8ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCwI_Wq9TrlBVpDTkyFmwOqxNwn2GIjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076403679220-ljvo6fhj48m64q2eahnmldt96eres8ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
